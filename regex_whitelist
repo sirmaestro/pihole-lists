@@ -1,0 +1,7 @@
+# Line
+^(?:[a-zA-Z0-9-]+\.)*line-apps\.com$
+^(?:[a-zA-Z0-9-]+\.)*line\.me$
+^(?:[a-zA-Z0-9-]+\.)*line-scdn\.net$
+
+# Google Push Notification
+^((alt)[0-9](-))?mtalk\.google\.com$
